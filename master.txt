@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Docente: José Narváez
 Materia: Aplicaciones Web
 UTEZ
 Carrera: Tecnplogías de la Información
+=======
+Carlos Abraham García Cervantes
+Grado y grupo: 3ro C
+>>>>>>> Mantto
